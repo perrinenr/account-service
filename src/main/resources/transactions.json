@@ -1,0 +1,165 @@
+{
+  "account": {
+    "accountHolderName": "Perrine Nassar",
+    "customerId": "1276734",
+    "accountNumber": "011276734001422",
+    "accountType": "LEAP PLUS Fresh Current Acc",
+    "accountCurrency": "LBP"
+  },
+  "date": {
+    "requestDate": "14-8-2026",
+    "fromDate": "14-8-2026",
+    "toDate": "14-8-2026",
+    "pages": "5"
+  },
+
+  "transactions": [
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153944760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153939760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153934760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153929760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153924760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153919760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153914760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153909760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153904760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153899760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153894760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153929760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153924760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153919760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153914760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153909760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153904760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153899760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153894760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153934760
+    },
+    {
+      "transactionDate": "2026-08-06",
+      "description": "Own Account Feeding|Credit order",
+      "valueDate": "2026-08-06",
+      "amount": 5000,
+      "balance": 153929760
+    }
+  ]
+}

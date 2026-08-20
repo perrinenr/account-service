@@ -20,6 +20,7 @@ public class AccountController {
         //return ResponseEntity.ok(new Account("gfgfgf","ghghg","7.8","hjhj","hjhj"));
         return ResponseEntity.ok(account);
     }
+
     @PutMapping("/api/v1/accounts/{accountNumber}/balance")
     public ResponseEntity<Account> updateBalance(
             @PathVariable String accountNumber,
